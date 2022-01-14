@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Masood Lab
 
 You can use the [editor on GitHub](https://github.com/AteeqMKhaliq/Masoodlab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
